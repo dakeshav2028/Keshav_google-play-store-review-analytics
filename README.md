@@ -70,5 +70,6 @@ pandas,numpy,seaborn,matplotlib.pylot,datetime,pytz
 # Output of Task-3 :
 ![Image](https://github.com/user-attachments/assets/0b086a6c-c445-404c-ae2d-4922c6c3e1a2)
 
-# Final Output On Dashboard :
-![Image](https://github.com/user-attachments/assets/63a40136-3b96-4471-a13a-e0634dfe708c)
+# Integrated Dashboard output :
+![Image](https://github.com/user-attachments/assets/65b9812f-5fb5-45ad-93e5-2ed451d52c2f)
+![Image](https://github.com/user-attachments/assets/601736ca-931c-4422-91fc-7b2f107a672e)
