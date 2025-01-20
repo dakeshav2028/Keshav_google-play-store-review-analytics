@@ -48,6 +48,7 @@ pandas,numpy,seaborn,matplotlib,datetime
 ##### 6.Integrate with Dashboard:
 ###### ->Implement conditional logic to include or exclude this graph in the dashboard based on the time restriction.
 # Output of Task-2 :
+![Image](https://github.com/user-attachments/assets/49fa6079-a148-4310-99e8-48e24ca1cae3)
 
 # Task-3
 Plot a time series line chart to show the trend of total installs over time, segmented by app category. Highlight periods of significant growth by shading the areas under the curve where the increase in installs exceeds 20% month-over-month and content rating should be teen and app name should start with letter ‘E’ and installs should be more than 10k as well as this graph should work only between 6 PM IST to 9 PM IST apart from that time we should not show this graph in dashboard itself.
@@ -67,4 +68,7 @@ pandas,numpy,seaborn,matplotlib.pylot,datetime,pytz
 ##### 6.Integrate with Dashboard:
 ###### ->Implement conditional logic to include or exclude this graph in the dashboard based on the time restriction.
 # Output of Task-3 :
+![Image](https://github.com/user-attachments/assets/0b086a6c-c445-404c-ae2d-4922c6c3e1a2)
+
+#Final Output On Dashboard :
 
