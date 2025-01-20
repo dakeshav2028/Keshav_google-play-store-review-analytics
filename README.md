@@ -6,7 +6,7 @@ Create an interactive Choropleth map using Plotly to visualize global installs b
 ### Libraries used:
 pandas,plotly,datetime
 ### Step-By-Step Plan:
-1.Import the Required Libraries: 
+1.Import the Required Libraries:
 ->Import the necessary libraries for data handling, visualization, and time manipulation.
 2.Filter App Categories:
 ->Exclude categories starting with "A," "C," "G," or "S."
@@ -20,5 +20,6 @@ pandas,plotly,datetime
 ->Render the map only if the current time is between 6 PM IST and 8 PM IST.
 5.Testing and Deployment: 
 ->Test the code to ensure the time filter and visualization work as intended.
-#Output:
+# Output:
+
 
