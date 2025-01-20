@@ -21,5 +21,4 @@ pandas,plotly,datetime
 5.Testing and Deployment: 
 ->Test the code to ensure the time filter and visualization work as intended.
 # Output:
-
-
+![Image](https://github.com/user-attachments/assets/80dee014-6af8-401a-a570-76c03894e74e)
